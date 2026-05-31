@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# LaTeX build products
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Local logs / temp
+*.tmp
+/tmp/
